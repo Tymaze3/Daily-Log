@@ -1,0 +1,27 @@
+# 📅 Daily Log - [April 11, 2025]
+
+## 🧠 Security+ Study Progress
+- Continued studying **Cryptography**
+  - Reviewed and understood key concepts:
+    - Ciphers
+    - Symmetric algorithms (AES, DES, 3DES)
+    - Asymmetric algorithms (RSA, ECC)
+- Read another section of the **Security+ book**
+
+## 🖥️ Lab Work: Windows Server 2022 DC
+- Successfully **pushed system updates** to the Domain Controller (air-gapped)
+- Updated and refined multiple **Group Policy Objects (GPOs)**
+  - Reinforced security and system hardening based on STIG recommendations
+
+## 🐉 Kali Linux Hardening Project
+- Will work on Phase 2 tasks later tonight
+  - Focus will be on **audit logging**, **patch automation**, and cleanup routines
+
+## 📈 Futures Trading Development
+- Backtested **BOS + FVG** price action strategy
+  - Working toward high-probability entry rules and timing
+  - Goal: build consistency to scale toward **$10K/month**
+
+---
+
+EverydayI post in here moves a step closer to changing who I am. --Tymaze3
